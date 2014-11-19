@@ -1,6 +1,6 @@
 package com.sms.model;
 
-public class Person {
+public class User {
 	
 	private String firstname;
 	private String lastName;
