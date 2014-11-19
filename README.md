@@ -13,4 +13,4 @@ Not implemented:
 
 Check out the project as a Maven project in eclipse, deploy to container - preferably TomaCat 6.0.
 Run on the browser:
-http://localhost/FrontLineSMSuser/welcome/
+http://localhost/FrontLineSMSuser/welcome/ 
